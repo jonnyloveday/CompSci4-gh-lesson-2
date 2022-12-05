@@ -1,1 +1,6 @@
-console.log("i am ill")
+const ill = () => {
+    console.log("i am ill");
+};
+
+ill();
+ill();
